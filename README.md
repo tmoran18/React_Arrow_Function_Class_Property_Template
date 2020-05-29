@@ -1,2 +1,0 @@
-# React_Arrow_Function_Class_Property_Template
-Created with CodeSandbox
